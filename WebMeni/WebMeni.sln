@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMeni", "WebMeni\WebMeni.csproj", "{D697862B-0CEE-4A41-B744-FF061B1895FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMeniUnitTest", "WebMeniUnitTest\WebMeniUnitTest.csproj", "{CFA4CEBE-C491-40CD-9C68-2581AB6F7921}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D697862B-0CEE-4A41-B744-FF061B1895FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D697862B-0CEE-4A41-B744-FF061B1895FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D697862B-0CEE-4A41-B744-FF061B1895FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D697862B-0CEE-4A41-B744-FF061B1895FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFA4CEBE-C491-40CD-9C68-2581AB6F7921}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFA4CEBE-C491-40CD-9C68-2581AB6F7921}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFA4CEBE-C491-40CD-9C68-2581AB6F7921}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFA4CEBE-C491-40CD-9C68-2581AB6F7921}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D0095D1-901B-4A51-A3C3-FA956B0B3AF4}
+	EndGlobalSection
+EndGlobal
